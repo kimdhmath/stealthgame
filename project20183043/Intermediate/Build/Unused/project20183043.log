@@ -1,0 +1,23 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\kimdh\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\kimdonghyeon\stealthgame).
+  Building project20183043Editor...
+  Using Visual Studio 2019 14.29.30147 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from project20183043 unity file: project20183043.cpp, project20183043Character.cpp, project20183043GameMode.cpp, project20183043PlayerController.cpp
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 6.84 GB available: limiting max parallel actions to 4
+  Building 9 actions with 4 processes...
+  [1/9] Compile project20183043PlayerController.gen.cpp
+  [2/9] Compile project20183043GameMode.cpp
+  [3/9] Compile project20183043Character.cpp
+  [4/9] Compile project20183043.init.gen.cpp
+  [5/9] Compile project20183043Character.gen.cpp
+  [6/9] Compile project20183043PlayerController.cpp
+  [7/9] Link UnrealEditor-project20183043.lib
+     C:\kimdonghyeon\stealthgame\project20183043\Intermediate\Build\Win64\UnrealEditor\Development\project20183043\UnrealEditor-project20183043.lib 라이브러리 및 C:\kimdonghyeon\stealthgame\project20183043\Intermediate\Build\Win64\UnrealEditor\Development\project20183043\UnrealEditor-project20183043.exp 개체를 생성하고 있습니다.
+  [8/9] Link UnrealEditor-project20183043.dll
+     C:\kimdonghyeon\stealthgame\project20183043\Intermediate\Build\Win64\UnrealEditor\Development\project20183043\UnrealEditor-project20183043.suppressed.lib 라이브러리 및 C:\kimdonghyeon\stealthgame\project20183043\Intermediate\Build\Win64\UnrealEditor\Development\project20183043\UnrealEditor-project20183043.suppressed.exp 개체를 생성하고 있습니다.
+  [9/9] WriteMetadata project20183043Editor.target
+  Total time in Parallel executor: 12.37 seconds
+  Total execution time: 13.10 seconds

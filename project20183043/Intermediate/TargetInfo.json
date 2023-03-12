@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "project20183043",
+			"Path": "C:\\kimdonghyeon\\stealthgame\\project20183043\\Source\\project20183043.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "project20183043Editor",
+			"Path": "C:\\kimdonghyeon\\stealthgame\\project20183043\\Source\\project20183043Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

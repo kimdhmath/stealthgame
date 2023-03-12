@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\project20183043editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\development\\project20183043\\definitions.project20183043.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\source\\project20183043\\project20183043gamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

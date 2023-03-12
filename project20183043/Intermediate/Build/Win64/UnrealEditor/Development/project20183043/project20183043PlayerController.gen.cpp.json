@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043playercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\project20183043editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\development\\project20183043\\definitions.project20183043.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\source\\project20183043\\project20183043playercontroller.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\kimdonghyeon\\stealthgame\\project20183043\\source\\project20183043\\project20183043gamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\project20183043editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\development\\project20183043\\definitions.project20183043.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\source\\project20183043\\project20183043gamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043gamemode.generated.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\source\\project20183043\\project20183043playercontroller.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043playercontroller.generated.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\source\\project20183043\\project20183043character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\kimdonghyeon\\stealthgame\\project20183043\\intermediate\\build\\win64\\unrealeditor\\inc\\project20183043\\project20183043character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
